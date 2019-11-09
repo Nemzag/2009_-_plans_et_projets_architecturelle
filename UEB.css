@@ -1,0 +1,134 @@
+﻿.Avrum {color: #FC0;}
+.Blanc {
+	color: #FFFFFF
+}
+.Bleu {color: #0066FF}
+.Clignotant {	text-decoration: blink;}
+.Cyan {color: #00FFFF}
+.Green {color: #009900}
+.Green_Bold {color: #009900; font-weight: bold; }
+.Noir {color: #000000}
+.Rouge {color: #FF0000}
+.Rouge_Bold {color: #FF0000; font-weight: bold; }
+.Sang {color: #CC0000}
+.Sang_Bold {color: #990000; font-weight: bold; }
+.Vert {color: #009900}
+.Vert_Bold {color: #009900; font-weight: bold; }
+
+.Cyril_Enorme {font-family: Dilyana; font-size: xx-large;}
+.Cyril_Large {font-family: Dilyana; font-size: x-large;}
+.Cyril_Grand {font-family: Dilyana; font-size: large;}
+.Cyril_Normal {font-family: Dilyana; font-size: medium;}
+.Cyril {font-family: Dilyana;}
+
+.Dingbat_Enorme {font-family: Code2000; font-size: xx-large;}
+.Dingbat_Large {font-family: Code2000; font-size: x-large;}
+.Dingbat_Grand {font-family: Code2000; font-size: large;}
+.Dingbat_Grand_Blanc {font-family: Code2000; font-size: large; color: #FFFFFF;}
+.Dingbat_Normal {font-family: Code2000; font-size: medium;}
+
+.Ellênikis_Enorme {font-family: "Palatino Linotype"; font-size: xx-large;}
+.Ellênikis_Large {font-family: "Palatino Linotype"; font-size: x-large;}
+.Ellênikis_Grand {font-size: large; font-family: "Palatino Linotype"; }
+.Ellênikis_Grand_Blanc {font-size: large; font-family: "Palatino Linotype"; color: #FFFFFF;}
+.Ellênikis_Grand_Green {font-size: large; font-family: "Palatino Linotype"; color: #009900;}
+.Ellênikis_Normal_Altan {font-family: "Palatino Linotype", "charis SIL"; font-size: medium; color: #FC0;}
+.Ellênikis_Normal_Bold {font-family: "Palatino Linotype", "charis SIL"; font-size: medium; font-weight: bold;}
+.Ellênikis_Normal_Blanc {font-family: "Palatino Linotype", "charis SIL"; font-size: medium; color: #FFFFFF;}
+.Ellênikis_Normal_Bleu {font-family: "Palatino Linotype", "charis SIL"; font-size: medium; color: #0066FF;}
+.Ellênikis_Normal_Green {font-family: "Palatino Linotype", "charis SIL"; font-size: medium; color: #009900;}
+.Ellênikis_Normal_Rouge {font-family: "Palatino Linotype", "charis SIL"; font-size: medium; color: #FF0000;}
+.Ellênikis_Normal_Vert {font-family: "Palatino Linotype", "charis SIL"; font-size: medium; color: #009900;}
+.Ellênikis_Normal {font-family: "Palatino Linotype", "charis SIL"; font-size: medium;}
+.Ellênikis_Bold {font-family: "Palatino Linotype"; font-weight: bold; }
+.Ellênikis {font-family: "Palatino Linotype";}
+.Ellênikis_Blanc {font-family: "Palatino Linotype"; color: #FFFFFF;}
+
+
+.Obrith_Enorme {font-family: Cardo;	font-size: xx-large;}
+.Obrith_Large {font-family: Cardo; font-size: x-large;}
+.Obrith_Grand {font-size: large; font-family: Cardo;}
+.Obrith_Grand_Blanc {font-family: cardo; font-size: large; color: #FFFFFF;}
+.Obrith_Grand_Bleu {font-family: cardo; font-size: large; color: #0066FF;}
+.Obrith_Grand_Green {font-family: cardo; font-size: large; color: #009900;}
+.Obrith_Grand_Rouge {font-family: cardo; font-size: large; color: #F00;}
+.Obrith_Grand_Vert {font-family: cardo; font-size: large; color: #009900;}
+.Obrith_Normal_Bold {	font-size: medium; font-family: Cardo; font-weight: bold;}
+.Obrith_Normal  {font-size: medium; font-family: Cardo; }
+.Obrith {font-family: Cardo}
+
+.Orbi_Enorme_Green {font-family: andalus; font-size: xx-large; color: #090;}
+.Orbi_Enorme {font-family: Andalus;	font-size: xx-large;}
+.Orbi_Grand {font-family: Andalus; font-size: large;}
+.Orbi_Grand_Blanc {font-family: Andalus; font-size: large; color: #FFFFFF;}
+.Orbi_Grand_Green {font-family: Andalus; font-size: large; color: #009900;}
+.Orbi_Large {font-family: Andalus; font-size: x-large;}
+.Orbi_Large_Blanc {font-family: Andalus; font-size: x-large; color: #FFFFFF;}
+.Orbi_Large_Blue {font-family: Andalus; font-size: x-large; color: #0066FF;}
+.Orbi_Large_Green {font-family: Andalus; font-size: x-large; color: #009900;}
+.Orbi_Large_Rouge {font-family: Andalus; font-size: x-large; color: #F00;}
+.Orbi_Large_Vert {font-family: Andalus; font-size: x-large; color: #009900;}
+.Orbi_Normal {font-family: Andalus; font-size: medium;}
+.Orbi_Normal_Green {font-family: Andalus; font-size: medium; color: #009900;}
+.Orbi {font-family: Andalus}
+
+.Phonetique {color: #990000; font-weight: bold;}
+
+.Qin_Enorme {font-size: xx-large; font-family: "MS Mincho";}
+.Qin_Large {font-size: x-large; font-family: "MS Mincho";}
+.Qin_Large_Blanc {font-size: x-large; font-family: "MS Mincho"; color: #FFFFFF;}
+.Qin_Large_Bleu {font-size: x-large; font-family: "MS Mincho"; color: #0066FF;}
+.Qin_Large_Altan {
+	font-size: x-large;
+	font-family: "MS Mincho";
+	color: #FC0;
+}
+.Qin_Large_Green {font-size: x-large; font-family: "MS Mincho"; color: #090;}
+.Qin_Large_Vert {font-size: x-large; font-family: "MS Mincho"; color: #090;}
+.Qin_Grand_Bold {font-size: large; font-family: "MS Mincho"; font-weight: bold; }
+.Qin_Grand  {font-size: large; font-family: "MS Mincho";}
+.Qin_Normal  {font-size: medium; font-family: "MS Mincho";}
+.Qin  {font-family: "MS Mincho";}
+
+.Roman_Enorme {font-family: "Times New Roman", Times, serif; font-size: xx-large;}
+.Roman_Large {font-family: "Times New Roman", Times, serif;	font-size: x-large;}
+.Roman_Grand {font-family: "Times New Roman", Times, serif;	font-size: large;}
+.Roman_Normal {font-family: "Times New Roman", Times, serif; font-size: medium;}
+.Roman_Normal_Blanc {font-family: "Times New Roman", Times, serif; font-size: medium; color: #FFFFFF;}
+.Roman_Bold {font-family: "Times New Roman", Times, serif; font-weight: bold; }
+.Roman {font-family: "Times New Roman", Times, serif;}
+
+.Sanskrit_Enorme {font-family: "Chrysanthi Unicode"; font-size: xx-large;}
+.Sanskrit_Large {font-family: "Chrysanthi Unicode"; font-size: x-large;}
+.Sanskrit_Large_Blanc {font-family: "Chrysanthi Unicode"; font-size: x-large; color: #FFFFFF;}
+.Sanskrit_Large_Bleu {font-family: "Chrysanthi Unicode"; font-size: x-large; color: #0066FF;}
+.Sanskrit_Large_Green {font-family: "Chrysanthi Unicode"; font-size: x-large; color: #090;}
+.Sanskrit_Large_Rouge {font-family: "Chrysanthi Unicode"; font-size: x-large; color: #F00;}
+.Sanskrit_Grand {font-size: large; font-family: "Chrysanthi Unicode"; }
+.Sanskrit_Normal {font-family: "Chrysanthi Unicode", "charis SIL"; font-size: medium;}
+.Sanskrit_Bold {font-family: "Chrysanthi Unicode"; font-weight: bold; }
+.Sanskrit {font-family: "Chrysanthi Unicode";}
+
+.Shomër_Enorme {font-family: Akkadian, cuneiformComposite; font-size: xx-large;}
+.Shomër_Large {font-family: Akkadian, cuneiformComposite; font-size: x-large;}
+.Shomër_Grand {font-family: Akkadian, cuneiformComposite; font-size: large;}
+.Shomër_Normal {font-family: Akkadian, cuneiformComposite; font-size: medium;}
+.Shomër {font-family: Akkadian, cuneiformComposite;}
+
+.Enorme {font-size: xx-large;}
+.Large {font-size: x-large}
+.Large_Vert {font-size: x-large; color: #090;}
+.Large_Green {font-size: x-large; color: #090;}
+.Grand {font-size: large;}
+.Petit {font-size: small;}
+.Small_X {font-size: x-small;} .Blanc {color: #FFFFFF}
+.Small_X_Blanc {font-size: x-small; color: #FFFFFF;}
+.Small_XX {font-size: xx-small;}
+.X_Small {font-size: x-small;}
+.X_Small_Blanc {font-size: x-small; color: #FFFFFF;}
+.X_Small_Bleu {font-size: x-small; color: #0066FF;}
+.X_Small_Green {font-size: x-small; color: #090;}
+.X_Small_Rouge {font-size: x-small; color: #F00;}
+.XX_Small {font-size: xx-small;}
+
+.Ugaritic_Grand {font-size: large; font-family: Aegean, Andagii, Code2001, "MPH 2B Damase";}
